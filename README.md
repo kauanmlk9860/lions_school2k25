@@ -40,6 +40,7 @@ Desenvolvido por [**Kauan Rodrigues**](https://github.com/kauanmlk9860)
 ## 🚀 Status do Projeto
 
 📌 Em desenvolvimento — novas funcionalidades serão adicionadas em breve!
+--
 📌 Em breve implementação do Back-End
 ---
 
