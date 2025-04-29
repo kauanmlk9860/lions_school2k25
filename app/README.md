@@ -1,3 +1,4 @@
+# 🦁 Lions School App
 
 Bem-vindo ao **Lions School App** – um aplicativo desenvolvido em **Kotlin** com foco na gestão e comunicação escolar de maneira moderna, acessível e eficiente.
 
