@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Lion School</string>
+    <string name="image_description">Lion School Image</string>
+    <string name="lion_name">Lion</string>
+    <string name="school_name">School</string>
+    <string name="subtitle_inicial_screen">Find your favorite course</string>
+    <string name="description">Get to your destination faster, study at the best vocational school in Brazil. Be the best version of yourself.</string>
+    <string name="get_started_button">Get Started</string>
+    <string name="instagram">Instagram Icon</string>
+    <string name="twitter">Twitter icon</string>
+    <string name="youtube">Youtube Icon</string>
+    <string name="facebook">Facebook Icon</string>
+    <string name="name_course_ds">DS</string>
+    <string name="name_course_rds">RDS</string>
+    <string name="name_course_ele">ELE</string>
+    <string name="name_course_complete_ds">Desenvolvimento de Sistemas</string>
+    <string name="name_course_complete_rds">Redes de Computadores</string>
+    <string name="name_course_complete_ele">Eletroeletrônica</string>
+    <string name="description_course_ds">Learn to develop web and mobile applications.</string>
+    <string name="description_course_rds">Learn to design communication networks.</string>
+    <string name="description_course_ele">Learn to design communication networks.</string>
+    <string name="semesters">3 semestres</string>
+
+    <string name="label_courses">Find your course</string>
+    <string name="courses">Courses</string>
+
+    <string name="students">Find a student</string>
+    <string name="all_students">Todos</string>
+    <string name="students_studying">Cursando</string>
+    <string name="finished_students">Finalizado</string>
+    <string name="students_list">Students List</string>
+
+    <string name="fake_student">Luana Oliveira Dias</string>
+    <string name="fake_student_description">001 - Técnica em Desenvolvimento de Sistemas</string>
+</resources>
